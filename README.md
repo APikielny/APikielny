@@ -1,7 +1,7 @@
 ### Hi there 👋
 2 truths and a lie about me:
 1. I have 1.5 fake teeth
-2. I like bell peppers
+2. You saw me on the national spelling bee when I was 12
 3. I had blond hair as a baby
 
 <!--
