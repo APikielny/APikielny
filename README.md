@@ -1,4 +1,8 @@
 ### Hi there 👋
+2 truths and a lie about me:
+1. I have 1.5 fake teeth
+2. I like bell peppers
+3. I had blond hair as a baby
 
 <!--
 **APikielny/APikielny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
